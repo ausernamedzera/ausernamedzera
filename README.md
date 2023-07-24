@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ausernamedzera
 - 👀 I’m interested in softare development and game development
-- 🌱 I’m currently learning c++,mssql,html,css,php
+- 🌱 I’m currently learning python
 
 <!---
 ausernamedzera/ausernamedzera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
