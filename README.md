@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ausernamedzera
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning Python and .NET Framework
+- 🌱 I’m currently learning Python
 
 <!---
 ausernamedzera/ausernamedzera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
